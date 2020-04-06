@@ -1,57 +1,73 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>Samuel Silva</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="Pagina Web Samuel">
+			<meta name="author" content="Samuel Silva">
+			<meta name="keywords" content="Avaliação da Aula, Bem Vindos, Sala de Aula, Campus, Colegas Presentes, Poema, Família, Cores">			
+			<title>Samuel Silva</title>			
 		</head>
+		<nav>
+			<h1>Links Diretos</h1>
+				<ul>
+					<li><a href="file:///C:/Users/u106604/Desktop/Avalia%C3%A7%C3%A3o%20da%20Aula.html">Avaliação da Aula</a></li>
+					<li><a href="file:///C:/Users/u106604/Desktop/Sauda%C3%A7%C3%A3o.html">Link Saudação</a></li>
+					<li><a href="file:///C:/Users/u106604/Desktop/Descri%C3%A7%C3%A3o%20F%C3%ADsica.html">Link Descrição Física</a>
+					<li><a href="file:///C:/Users/u106604/Desktop/Sala%20de%20Aula.html">Link Sala de Aula</a></li>
+					<li><a href="file:///C:/Users/u106604/Desktop/Colegas%20Presentes.html">Link Colegas Presentes</a></li>
+					<li><a href="file:///C:/Users/u106604/Desktop/Poema.html">Link Poema Batatinha</a></li>
+					<li><a href="file:///C:/Users/u106604/Desktop/Fam%C3%ADlia%20e%20Cores.html">Link Família e Cores</a></li>
+				</ul>
+		</nav>
 		<body>
 			<div>
-			<h1>Avaliação da Aula HTML</h1>
-			<p>Apesar de eu não ter participado da aula de HTML, consegui pegar o conteúdo que está muito bem explicado nos slides do professor Ramon e com a ajuda do meu colega de sala estou aprendendo HTML e conseguindo fazer a atividade sem muita dificuldade.</p>
+				<h1>Avaliação da Aula HTML</h1>
+					<p>Apesar de eu não ter participado da aula de HTML, consegui pegar o conteúdo que está muito bem explicado nos slides do professor Ramon e com a ajuda do meu colega de sala estou aprendendo HTML e conseguindo fazer a atividade sem muita dificuldade.</p>
 			</div>
 			<div>
-			<h1>Bem vindos!</h1>
-			<p>Sejam bem vindos ao melhor e mais humilde site do UniBh - Cristiano Machado!</p>
+				<h1>Bem vindos!</h1>
+					<p>Sejam bem vindos ao melhor e mais humilde site do UniBh - Cristiano Machado!</p>
 			</div>
 			<div>
-			<h1>Campus Unibh Cristiano Machado</h1>
-			<p>A Unibh campus Cristiano Machado fica localizado próximo ao hipermercado Extra e com outra unidade no Centerminas. A unidade próximo ao Extra possui dois andares e varios corredores as conectando, e também com um DCE com umamplo espaço onde possui duas mesas de sinuca e várias redes e mesas.</p>
+				<h1>Campus Unibh Cristiano Machado</h1>
+					<p>A Unibh campus Cristiano Machado fica localizado próximo ao hipermercado Extra e com outra unidade no Centerminas. A unidade próximo ao Extra possui dois andares e varios corredores as conectando, e também com um DCE com umamplo espaço onde possui duas mesas de sinuca e várias redes e mesas.</p>
 			</div>
 			<div>
-			<h1>A Sala de Aula</h1>
-			<p>A sala de aula atualmente está sendo as videochamadas feitas pelo professor, devido a quarentena.</p>
+				<h1>A Sala de Aula</h1>
+					<p>A sala de aula atualmente está sendo as videochamadas feitas pelo professor, devido a quarentena.</p>
 			</div>
 			<div>
-			<h1>Colegas Presentes</h1>
-			<p>Com relação aos colegas presentes não me recordo, pelo fato de não ter participado da aula também.</p>
+				<h1>Colegas Presentes</h1>
+					<p>Com relação aos colegas presentes não me recordo, pelo fato de não ter participado da aula também.</p>
 			</div>
 			<div>
-			<h1>Poema Batatinha</h1>
-			<p>Batatinha quando nasce espalha a rama pelo chão.</p>
-			<p>Menininha quando dorme põe a mão no coração.</p>
-			<p>Sou pequenininha do tamanho de um botão,</p>
-			<p>Carrego papai no bolso e mamãe no coração</p>
-			<p>O bolso furou e o papai caiu no chão.</p>
-			<p>Mamãe que é mais querida ficou no coração.</p>
+				<h1>Poema Batatinha</h1>
+					<p>Batatinha quando nasce espalha a rama pelo chão.
+					<br>Menininha quando dorme põe a mão no coração.
+					<br>Sou pequenininha do tamanho de um botão,
+					<br>Carrego papai no bolso e mamãe no coração
+					<br>O bolso furou e o papai caiu no chão.
+					<br>Mamãe que é mais querida ficou no coração.</p>
 			</div>
 			<div>
-			<h1>Família e Cores</h1>
-			<h2>Pais</h2>
-			<ul>
-				<li>Geraldo Magela Silva</li>
-				<li>Rita de Cássia Cunha Silva</li>
-			</ul>
-			<h2>Irmãos</h2>
-			<ul>
-				<li>Davi Emílio Silva</li>
-				<li>Tiago Alexandre Silva</li>
-			</ul>
-			<h2>Cores</h2>
-			<ol>
-				<li>Preto</li>
-				<li>Verde</li>
-				<li>Azul</li>
-			</ol>
+				<h1>Família e Cores</h1>
+					<h2>Pais</h2>
+						<ul>
+							<li>Geraldo Magela Silva</li>
+							<li>Rita de Cássia Cunha Silva</li>
+						</ul>
+					<h2>Irmãos</h2>
+						<ul>
+							<li>Davi Emílio Silva</li>
+							<li>Tiago Alexandre Silva</li>
+						</ul>
+					<h2>Cores</h2>
+						<ol>
+							<li>Preto</li>
+							<li>Verde</li>
+							<li>Azul</li>
+						</ol>
 			</div>
 		</body>
-		<footer>felipesamuel99@gmail.com</footer>
+		<footer><a href="mailto:felipesamuel99@gmail.com">felipesamuel99@gmail.com</footer>
 	</html>
